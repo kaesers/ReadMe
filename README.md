@@ -9,8 +9,8 @@ Aufgabe2-Shinebrightlikeadiamond
 * shinebrightlikeadiamondoriginal
 * shineblacklikeanopal
 2. Modern
-*shinebrightBarbieQue-Men edition
-*shinebrightkidzzindahoodzz
+* shinebrightBarbieQue-Men edition
+* shinebrightkidzzindahoodzz
 
 ---
 
