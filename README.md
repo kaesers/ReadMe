@@ -5,12 +5,12 @@ Aufgabe2-Shinebrightlikeadiamond
 
 ###Liste
 
-1. Classic
-* shinebrightlikeadiamondoriginal
-* shineblacklikeanopal
-2. Modern
-* shinebrightBarbieQue-Men edition
-* shinebrightkidzzindahoodzz
+1. Classic:
+ * shinebrightlikeadiamondoriginal
+ * shineblacklikeanopal
+2. Modern:
+ * shinebrightBarbieQue-Men edition
+ * shinebrightkidzzindahoodzz
 
 ---
 
